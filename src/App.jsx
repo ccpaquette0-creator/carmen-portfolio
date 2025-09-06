@@ -35,7 +35,7 @@ const Hero = () => (
       <div className="relative aspect-[4/5] rounded-3xl shadow-2xl bg-slate-200 overflow-hidden">
         <img
           alt="Carmen performing"
-          src="/images/hero-portrait.jpg"
+          src="/images/Fredricking22.jpg"
           className="h-full w-full object-cover"
         />
       </div>
