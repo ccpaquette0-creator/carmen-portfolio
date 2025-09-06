@@ -58,8 +58,8 @@ const Reel = () => (
     <div className="mt-6 aspect-video rounded-2xl overflow-hidden shadow-2xl bg-black grid place-items-center">
       <iframe
         className="h-full w-full"
-        src="https://player.vimeo.com/video/000000000"
-        title="Carmen Paquette Dance Reel"
+        src="https://youtu.be/gq7Jw4DrpvQ"
+        title="Carmen Paquette-Dance Reel"
         frameBorder="0"
         allow="autoplay; fullscreen; picture-in-picture"
         allowFullScreen
@@ -123,7 +123,7 @@ const Contact = () => (
   <section id="contact" className="max-w-6xl mx-auto px-4 py-16">
     <h2 className="text-3xl font-bold">Contact</h2>
     <p className="mt-4 text-slate-700">Bookings, residencies, workshops, collaborations.</p>
-    <p className="mt-2 text-slate-700">Email: your.email@example.com</p>
+    <p className="mt-2 text-slate-700">Email: ccpaquette0@gmail.com</p>
   </section>
 );
 
